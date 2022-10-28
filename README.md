@@ -20,6 +20,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Learn More
 
+
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
@@ -30,5 +31,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+https://realestateapi-dedemahendra1.vercel.app/
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![API](https://user-images.githubusercontent.com/112716178/198697114-f6e0f403-c88d-481d-a318-d5faa63aa7b6.PNG)
